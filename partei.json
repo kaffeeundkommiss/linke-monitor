@@ -1,0 +1,281 @@
+{
+  "stand": "2026-11-11",
+  "vorsitz_titel": "Amtszeiten seit 2007",
+  "wahlen": [
+    {
+      "jahr": 1998,
+      "datum": "1998-09-27",
+      "ergebnis": 5.1,
+      "sitze": 36,
+      "rolle": "Opposition",
+      "vorsitz": "Lothar Bisky (PDS)"
+    },
+    {
+      "jahr": 2002,
+      "datum": "2002-09-22",
+      "ergebnis": 4.0,
+      "sitze": 2,
+      "rolle": "Opposition",
+      "vorsitz": "Gabi Zimmer (PDS)"
+    },
+    {
+      "jahr": 2005,
+      "datum": "2005-09-18",
+      "ergebnis": 8.7,
+      "sitze": 54,
+      "rolle": "Opposition",
+      "vorsitz": "Lothar Bisky (Linkspartei.PDS)"
+    },
+    {
+      "jahr": 2009,
+      "datum": "2009-09-27",
+      "ergebnis": 11.9,
+      "sitze": 76,
+      "rolle": "Opposition",
+      "vorsitz": "Lothar Bisky / Oskar Lafontaine"
+    },
+    {
+      "jahr": 2013,
+      "datum": "2013-09-22",
+      "ergebnis": 8.6,
+      "sitze": 64,
+      "rolle": "Opposition",
+      "vorsitz": "Katja Kipping / Bernd Riexinger"
+    },
+    {
+      "jahr": 2017,
+      "datum": "2017-09-24",
+      "ergebnis": 9.2,
+      "sitze": 69,
+      "rolle": "Opposition",
+      "vorsitz": "Katja Kipping / Bernd Riexinger"
+    },
+    {
+      "jahr": 2021,
+      "datum": "2021-09-26",
+      "ergebnis": 4.9,
+      "sitze": 39,
+      "rolle": "Opposition",
+      "vorsitz": "Janine Wissler / Susanne Hennig-Wellsow"
+    },
+    {
+      "jahr": 2025,
+      "datum": "2025-02-23",
+      "ergebnis": 8.8,
+      "sitze": 64,
+      "rolle": "Opposition",
+      "vorsitz": "Ines Schwerdtner / Jan van Aken"
+    }
+  ],
+  "vorsitzende": [
+    {
+      "nr": 1,
+      "name": "Lothar Bisky / Oskar Lafontaine",
+      "beginn": "2007-06-16",
+      "ende": "2010-05-15"
+    },
+    {
+      "nr": 2,
+      "name": "Gesine Lötzsch / Klaus Ernst",
+      "beginn": "2010-05-15",
+      "ende": "2012-06-02"
+    },
+    {
+      "nr": 3,
+      "name": "Katja Kipping / Bernd Riexinger",
+      "beginn": "2012-06-02",
+      "ende": "2021-02-27"
+    },
+    {
+      "nr": 4,
+      "name": "Janine Wissler / Susanne Hennig-Wellsow",
+      "beginn": "2021-02-27",
+      "ende": "2022-04-20"
+    },
+    {
+      "nr": 5,
+      "name": "Janine Wissler",
+      "beginn": "2022-04-20",
+      "ende": "2022-06-25"
+    },
+    {
+      "nr": 6,
+      "name": "Janine Wissler / Martin Schirdewan",
+      "beginn": "2022-06-25",
+      "ende": "2024-10-19"
+    },
+    {
+      "nr": 7,
+      "name": "Ines Schwerdtner / Jan van Aken",
+      "beginn": "2024-10-19",
+      "ende": "2026-06-20"
+    },
+    {
+      "nr": 8,
+      "name": "Ines Schwerdtner / Luigi Pantisano",
+      "beginn": "2026-06-20",
+      "ende": null
+    }
+  ],
+  "zeitleiste": [
+    {
+      "spur": "Rolle im Bund",
+      "label": "Opposition (PDS)",
+      "von": "1998-10",
+      "bis": "2005-10",
+      "status": "Opposition"
+    },
+    {
+      "spur": "Rolle im Bund",
+      "label": "Opposition (Linke)",
+      "von": "2005-10",
+      "bis": null,
+      "status": "Opposition"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Bisky (PDS)",
+      "von": "1998-01",
+      "bis": "2000-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Zimmer (PDS)",
+      "von": "2000-10",
+      "bis": "2003-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Bisky (PDS)",
+      "von": "2003-06",
+      "bis": "2007-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Bisky/Lafontaine",
+      "von": "2007-06",
+      "bis": "2010-05",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Lötzsch/Ernst",
+      "von": "2010-05",
+      "bis": "2012-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Kipping/Riexinger",
+      "von": "2012-06",
+      "bis": "2021-02",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Wissler/Hennig-Wellsow",
+      "von": "2021-02",
+      "bis": "2022-04",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Wissler",
+      "von": "2022-04",
+      "bis": "2022-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Wissler/Schirdewan",
+      "von": "2022-06",
+      "bis": "2024-10",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Schwerdtner/van Aken",
+      "von": "2024-10",
+      "bis": "2026-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Vorsitz",
+      "label": "Schwerdtner/Pantisano",
+      "von": "2026-06",
+      "bis": null,
+      "status": "laufend"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "Programm der PDS (Chemnitz)",
+      "von": "2003-10",
+      "bis": "2007-06",
+      "status": "abgeschlossen"
+    },
+    {
+      "spur": "Grundsatzprogramm",
+      "label": "Erfurter Programm",
+      "von": "2011-10",
+      "bis": null,
+      "status": "laufend"
+    }
+  ],
+  "belege": {
+    "wahlen": [
+      {
+        "name": "Deutscher Bundestag: Wahlergebnisse seit 1949",
+        "url": "https://www.bundestag.de/parlament/wahlen/ergebnisse_seit1949-244692"
+      },
+      {
+        "name": "wahlrecht.de: Bundestagswahlen (Prozente und Sitze)",
+        "url": "https://www.wahlrecht.de/ergebnisse/bundestag.htm"
+      }
+    ],
+    "zeitleiste": [
+      {
+        "name": "bpb: Die Linke positioniert sich als Oppositionspartei (Erfurter Programm, 16.11.2011)",
+        "url": "https://www.bpb.de/53023/die-linke-positioniert-sich-als-oppositionspartei/"
+      },
+      {
+        "name": "Deutscher Bundestag: Textarchiv 2011, KW 43 (Erfurter Programm)",
+        "url": "https://www.bundestag.de/webarchiv/textarchiv/2011/36313344_kw43_de_linke_ak-206674"
+      },
+      {
+        "name": "Rosa-Luxemburg-Stiftung: Neues Programm der PDS (Oktober 2003)",
+        "url": "https://www.rosalux.de/publikation/id/3486/neues-programm-der-pds-und-rueckenwind-fuers-politikmachen"
+      },
+      {
+        "name": "Wikipedia (en): Die Linke",
+        "url": "https://en.wikipedia.org/wiki/Die_Linke"
+      }
+    ],
+    "vorsitz": [
+      {
+        "name": "Wikipedia (en): Die Linke",
+        "url": "https://en.wikipedia.org/wiki/Die_Linke"
+      },
+      {
+        "name": "ZDF: Linke wählt neues Spitzenduo (20.06.2026)",
+        "url": "https://www.zdfheute.de/politik/deutschland/linke-vorsitz-pantisano-schwerdtner-wahl-100.html"
+      },
+      {
+        "name": "ZDF: Nach Parteitag in Potsdam (21.06.2026)",
+        "url": "https://www.zdfheute.de/politik/deutschland/linke-parteitag-schwerdtner-pantisano-kurs-nahost-100.html"
+      }
+    ]
+  },
+  "belege_hinweis": {
+    "wahlen": "Zweitstimmen. 1998 und 2002 als PDS, 2005 als Linkspartei.PDS (wahlrecht.de: „bis 2002: PDS (2005: Die Linke.PDS)“). 2002 nur zwei Direktmandate. Rolle: in jeder Wahlperiode Opposition. Vorsitz am Wahltag.",
+    "zeitleiste": "Nach Monaten gerundet. Erfurter Programm beschlossen am 23.10.2011 (Bundestag, bpb), PDS-Programm auf dem Chemnitzer Parteitag im Oktober 2003 (RLS, bpb). Programmlage 2007–2011 hier nicht dargestellt. PDS-Vorsitz vor 2007 nach Wikipedia, nicht gegen Primärquellen geprüft (unbestätigt). Ein neues Grundsatzprogramm soll laut Freitag (07.01.2026) bis Herbst 2027 per Mitgliederentscheid beschlossen werden; nur eine Quelle, nicht ausreichend belegt.",
+    "vorsitz": "Doppelspitzen als eine Amtszeit. Amtsdaten bis 2024 nach Wikipedia, nicht vollständig gegen Primärquellen geprüft. Hennig-Wellsow trat am 20.04.2022 zurück, Wissler führte bis 25.06.2022 allein. Wahl Schwerdtner/Pantisano auf dem 10. Bundesparteitag in Potsdam laut ZDF-Meldung vom 20.06.2026; van Aken trat aus gesundheitlichen Gründen nicht wieder an."
+  },
+  "spuren": [
+    "Rolle im Bund",
+    "Vorsitz",
+    "Grundsatzprogramm"
+  ]
+}
