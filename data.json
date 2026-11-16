@@ -1,5 +1,5 @@
 {
-  "erstellt": "2026-11-11T13:00+01:00",
+  "erstellt": "2026-11-16T09:43+02:00",
   "partei": "Die Linke",
   "ebenen": [
     {
@@ -23,9 +23,9 @@
       },
       "wahlergebnis": null,
       "wahltrend": {
-        "wert": null,
+        "wert": 10.4,
         "delta": null,
-        "stand": null
+        "stand": "2026-11-14"
       },
       "umfragen": {
         "stand": "2026-11-11T12:30:00+01:00",
